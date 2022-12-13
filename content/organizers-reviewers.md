@@ -6,32 +6,32 @@ title: "Organizers"
 
 <div class="list-of-people">
     <div class="person">
-        <img src="/TODO.jpg">
-        <a href="TODO">Adrián Javaloy</a>
+        <img src="/adrian.jpg">
+        <a href="http://adrian.javaloy.com/" target="_blank">Adrián Javaloy</a>
     </div>
     <div class="person">
         <img src="/TODO.jpg">
-        <a href="TODO">Miguel Vasco</a>
+        <a href="TODO" target="_blank">Miguel Vasco</a>
     </div>
     <div class="person">
         <img src="/TODO.jpg">
-        <a href="TODO">Petra Poklukar</a>
+        <a href="TODO" target="_blank">Petra Poklukar</a>
     </div>
     <div class="person">
         <img src="/TODO.jpg">
-        <a href="TODO">Yuge Shi</a>
+        <a href="TODO" target="_blank">Yuge Shi</a>
     </div>
     <div class="person">
         <img src="/TODO.jpg">
-        <a href="TODO">Imant Daunhawer</a>
+        <a href="TODO" target="_blank">Imant Daunhawer</a>
     </div>
     <div class="person">
         <img src="/TODO.jpg">
-        <a href="TODO">Danica Kragic</a>
+        <a href="TODO" target="_blank">Danica Kragic</a>
     </div>
     <div class="person">
-        <img src="/TODO.jpg">
-        <a href="TODO">Isabel Valera</a>
+        <img src="/isabel.png">
+        <a href="https://ivaleram.github.io/" target="_blank">Isabel Valera</a>
     </div>
 </div>
 <script>
@@ -44,7 +44,7 @@ title: "Organizers"
 
 ## Contact
 
-For any questions or comments, please contact us at <mrl.workshop.iclr23@gmail.com> <span class="todo"> TODO create email address </span>
+For any questions or comments, please contact us at <mrl.workshop.2023@gmail.com>.
 
 ---
 

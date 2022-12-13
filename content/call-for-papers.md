@@ -5,12 +5,12 @@ title: "Call for Papers"
 # Call for Papers
 
 We welcome submissions related to any aspects of multimodal representation learning, including but not limited to:
-  * Properties of multimodal representations
-  * Insights on interactions across modalities
-  * Novel applications regarding the nature and number of modalities
+  * Properties of multimodal representations.
+  * Insights on interactions across modalities.
+  * Novel applications regarding the nature and number of modalities.
 
 
-In particular, we encourage submission that try to answer some of the following questions:
+In particular, we encourage submission that address the following questions:
   * **Representation:** How do we identify useful properties of multimodal representations?
     * What semantic information is encoded in the learned representations?
     * How does the geometry of the representation space affect the quality of the learned representations?

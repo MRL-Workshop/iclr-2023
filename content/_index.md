@@ -4,7 +4,7 @@ title: "Home"
 
 # Welcome!
 
-The First Workshop on **Multimodal Representation Learning (MRL): Perks and Pitfalls** will be co-located with [**ICLR 2023**](https://iclr.cc/Conferences/2023) in Kigali, Rwanda, on May 5, 2023.
+You are in the page of the first workshop **Multimodal Representation Learning (MRL): Perks and Pitfalls**, co-located with [**ICLR 2023**](https://iclr.cc/Conferences/2023) in Kigali, Rwanda, on May 5, 2023.
 
 
 ## About the workshop
@@ -22,4 +22,4 @@ Following deep learning, multimodal machine learning has made steady progress, b
 * **Camera-ready version:** t.b.a.
 * **Workshop date:** May 5, 2023
 
-Contact us at <mrl.workshop.iclr23@gmail.com> <span class="todo"> TODO create email address </span>
+Contact us at <mrl.workshop.2023@gmail.com>.
