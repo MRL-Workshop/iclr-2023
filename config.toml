@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://imantdaunhawer.github.io/mrl-iclr-2023"
+baseurl = "https://mrl-workshop.github.io/iclr-2023"
 canonifyurls = true
 languagecode = "en"
 theme = "mrl-iclr-2023-theme"
