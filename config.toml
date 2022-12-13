@@ -1,0 +1,58 @@
+# Global options
+baseurl = "https://imantdaunhawer.github.io/mrl-iclr-2023"
+canonifyurls = true
+languagecode = "en"
+theme = "mrl-iclr-2023-theme"
+disableKinds = ["taxonomyTerm"]
+
+# Params that are used in <head>
+[params]
+  supertitle = "First Workshop on"
+  title = "Multimodal Representation Learning"
+  subtitle = "May 5 @ ICLR 2023"
+  author = "Adrián Javaloy, Miguel Vasco, Petra Poklukar, Yuge Shi, Imant Daunhawer, Danica Kragic, Isabel Valera"
+  description = "First Workshop on Multimodal Representation Learning (ICLR 2023)"
+  keywords = ["workshop", "multimodal representation learning"]
+
+# Options for Markdown renderer
+[markup.goldmark.renderer]
+  unsafe = true
+  xHTML = true
+
+# Main menu
+[[menu.main]]
+    name = "About"
+    url  = "/"
+    weight = 1
+[[menu.main]]
+    name = "Call for Papers"
+    url  = "/call-for-papers"
+    weight = 2
+[[menu.main]]
+    name = "Schedule"
+    url  = "/schedule"
+    weight = 3
+[[menu.main]]
+    name = "Speakers"
+    url  = "/speakers"
+    weight = 4
+[[menu.main]]
+    name = "Organizers"
+    url  = "/organizers-reviewers"
+    weight = 5
+# [[menu.main]]
+#     name = "Formatting Instructions"
+#     url  = "/formatting-instructions"
+#     weight = 3
+# [[menu.main]]
+#     name = "Dates"
+#     url  = "/#dates"
+#     weight = 3
+# [[menu.main]]
+# name = "Accepted Papers"
+# url  = "/accepted-papers"
+# weight = 8
+# [[menu.main]]
+#     name = "Slides and Recording"
+#     url  = "/slides-recording"
+#     weight = 9
