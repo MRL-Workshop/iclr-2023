@@ -13,7 +13,7 @@
       
       <guid>https://mrl-workshop.github.io/iclr-2023/call-for-papers/</guid>
       <description>Call for Papers We welcome submissions related to any aspects of multimodal representation learning, including but not limited to:
-Properties of multimodal representations Insights on interactions across modalities Novel applications regarding the nature and number of modalities In particular, we encourage submission that try to answer some of the following questions:
+Properties of multimodal representations. Insights on interactions across modalities. Novel applications regarding the nature and number of modalities. In particular, we encourage submission that address the following questions:
 Representation: How do we identify useful properties of multimodal representations? What semantic information is encoded in the learned representations? How does the geometry of the representation space affect the quality of the learned representations?</description>
     </item>
     
@@ -41,7 +41,8 @@ Representation: How do we identify useful properties of multimodal representatio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrl-workshop.github.io/iclr-2023/organizers-reviewers/</guid>
-      <description>Organizers Adrián Javaloy Miguel Vasco Petra Poklukar Yuge Shi Imant Daunhawer Danica Kragic Isabel Valera Contact For any questions or comments, please contact us at mrl.workshop.iclr23@gmail.com TODO create email address Reviewers After the notification deadline, we will list all reviewers and other members of the program committee here.</description>
+      <description>Organizers Adrián Javaloy Miguel Vasco Petra Poklukar Yuge Shi Imant Daunhawer Danica Kragic Isabel Valera Contact For any questions or comments, please contact us at mrl.workshop.2023@gmail.com.
+Reviewers After the notification deadline, we will list all reviewers and other members of the program committee here.</description>
     </item>
     
     <item>
@@ -70,7 +71,7 @@ Gargi Balasubramaniam, University of Illinois, Urbana Champaign</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mrl-workshop.github.io/iclr-2023/schedule/</guid>
-      <description>Workshop Schedule Legend: invited · contributed · poster · break Time Program Format 09:00 - 09:30 Introduction and Opening Remarks In-person 09:10 - 09:40 Siddharth Narayanaswamy - t.b.a. Virtual (live) 09:10 - 09:40 Contributed Talk 1 10:00 - 10:30 Poster Session 1 In-person 10:30 - 11:00 Coffee break - 11:00 - 11:30 Zeynep Akata - t.b.a. Virtual (live) 11:30 - 12:00 Poster Session 2 In-person 12:00 - 13:30 Lunch break - 13:30 - 14:00 Contributed Talk 2 14:00 - 14:30 Arsha Nagrani - t.</description>
+      <description>Workshop Schedule Legend: invited · contributed · poster · break Time Program Format 09:00 - 09:10 Introduction and Opening Remarks In-person 09:10 - 09:40 Siddharth Narayanaswamy - t.b.a. Virtual (live) 09:10 - 09:40 Contributed Talk 1 10:00 - 10:30 Poster Session 1 In-person 10:30 - 11:00 Coffee break - 11:00 - 11:30 Zeynep Akata - t.b.a. Virtual (live) 11:30 - 12:00 Poster Session 2 In-person 12:00 - 13:30 Lunch break - 13:30 - 14:00 Contributed Talk 2 14:00 - 14:30 Arsha Nagrani - t.</description>
     </item>
     
   </channel>
