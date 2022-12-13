@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>https://imantdaunhawer.github.io/mrl-iclr-2023/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://imantdaunhawer.github.io/mrl-iclr-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Papers</title>
+      <link>https://imantdaunhawer.github.io/mrl-iclr-2023/call-for-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imantdaunhawer.github.io/mrl-iclr-2023/call-for-papers/</guid>
+      <description>Call for Papers We welcome submissions related to any aspects of multimodal representation learning, including but not limited to:
+Properties of multimodal representations Insights on interactions across modalities Novel applications regarding the nature and number of modalities In particular, we encourage submission that try to answer some of the following questions:
+Representation: How do we identify useful properties of multimodal representations? What semantic information is encoded in the learned representations? How does the geometry of the representation space affect the quality of the learned representations?</description>
+    </item>
+    
+    <item>
+      <title>Formatting Instructions</title>
+      <link>https://imantdaunhawer.github.io/mrl-iclr-2023/formatting-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imantdaunhawer.github.io/mrl-iclr-2023/formatting-instructions/</guid>
+      <description>Formatting Instructions Style &amp;amp; Author Instructions Submissions should be formatted using the ICLR 2023 latex template and formatting instructions. Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera ready version., including all main results, figures, and tables.</description>
+    </item>
+    
+    <item>
+      <title>Invited Speakers</title>
+      <link>https://imantdaunhawer.github.io/mrl-iclr-2023/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imantdaunhawer.github.io/mrl-iclr-2023/speakers/</guid>
+      <description>Invited Speakers Siddharth Narayanaswamy Zeynep Akata Arsha Nagrani Louis-Philippe Morency Kristen Grauman </description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://imantdaunhawer.github.io/mrl-iclr-2023/organizers-reviewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imantdaunhawer.github.io/mrl-iclr-2023/organizers-reviewers/</guid>
+      <description>Organizers Adrián Javaloy Miguel Vasco Petra Poklukar Yuge Shi Imant Daunhawer Danica Kragic Isabel Valera Contact For any questions or comments, please contact us at mrl.workshop.iclr23@gmail.com TODO create email address Reviewers After the notification deadline, we will list all reviewers and other members of the program committee here.</description>
+    </item>
+    
+    <item>
+      <title>Reviewers</title>
+      <link>https://imantdaunhawer.github.io/mrl-iclr-2023/reviewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imantdaunhawer.github.io/mrl-iclr-2023/reviewers/</guid>
+      <description>Reviewers Adam Li, Columbia University
+Alexander Hägele, ETHZ - ETH Zurich
+Biwei Huang, Carnegie Mellon University
+Bohdan Kivva, University of Chicago
+Bryon Aragam, University of Chicago
+Chandler Squires, Massachusetts Institute of Technology
+Cian Eastwood, University of Edinburgh
+Daniel Malinsky, Johns Hopkins University
+Davide Talon, Università degli Studi di Genova, Istituto Italiano di Tecnologia
+Dhanya Sridhar, Université de Montréal and Mila-Quebec AI Institute
+Furui Liu, Huawei Technologies Ltd.
+Gargi Balasubramaniam, University of Illinois, Urbana Champaign</description>
+    </item>
+    
+    <item>
+      <title>Schedule and Format</title>
+      <link>https://imantdaunhawer.github.io/mrl-iclr-2023/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imantdaunhawer.github.io/mrl-iclr-2023/schedule/</guid>
+      <description>Workshop Schedule Legend: invited · contributed · poster · break Time Program Format 09:00 - 09:30 Introduction and Opening Remarks In-person 09:10 - 09:40 Siddharth Narayanaswamy - t.b.a. Virtual (live) 09:10 - 09:40 Contributed Talk 1 10:00 - 10:30 Poster Session 1 In-person 10:30 - 11:00 Coffee break - 11:00 - 11:30 Zeynep Akata - t.b.a. Virtual (live) 11:30 - 12:00 Poster Session 2 In-person 12:00 - 13:30 Lunch break - 13:30 - 14:00 Contributed Talk 2 14:00 - 14:30 Arsha Nagrani - t.</description>
+    </item>
+    
+  </channel>
+</rss>
