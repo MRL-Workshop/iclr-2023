@@ -3,7 +3,7 @@ title: "Schedule and Format"
 ---
 
 
-# Workshop Schedule
+# Preliminary Workshop Schedule
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
@@ -26,7 +26,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>09:10 - 09:40</td>
-        <td>Siddharth Narayanaswamy - t.b.a.</td>
+        <td>Invited Speaker 1</td>
         <td>Virtual (live)</td>
     </tr>
     <tr class="contributed">
@@ -46,7 +46,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>11:00 - 11:30</td>
-        <td>Zeynep Akata - t.b.a.</td>
+        <td>Invited Speaker 2</td>
         <td>Virtual (live)</td>
     </tr>
     <tr class="poster">
@@ -66,7 +66,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>14:00 - 14:30</td>
-        <td>Arsha Nagrani - t.b.a.</td>
+        <td>Invited Speaker 3</td>
         <td>Virtual (live)</td>
     </tr>
     <tr class="poster">
@@ -81,12 +81,12 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>15:30 - 16:00</td>
-        <td>Louis-Philippe Morency - t.b.a.</td>
+        <td>Invited Speaker 4</td>
         <td>Virtual (live)</td>
     </tr>
     <tr class="invited">
         <td>16:00 - 16:30</td>
-        <td>Kristen Grauman - t.b.a.</td>
+        <td>Invited Speaker 5</td>
         <td>Virtual (live)</td>
     </tr>
     <tr class="poster">
@@ -110,9 +110,9 @@ title: "Schedule and Format"
     <em>All times according to current local time in Kigali, Rwanda (GMT+2).</em>
 </div>
 
-<span class="todo"> TODO: Please double-check time and format</span>
+<!-- <span class="todo"> TODO: Please double-check time and format</span> -->
 
-<span class="todo"> TODO: Add topics of the talks</span>
+<!-- <span class="todo"> TODO: Add topics of the talks</span> -->
 
 ## Hybrid Format
 

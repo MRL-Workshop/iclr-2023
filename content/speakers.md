@@ -2,7 +2,7 @@
 title: "Invited Speakers"
 ---
 
-# Invited Speakers
+# Preliminary Invited Speakers
 
 <div class="list-of-people">
     <div class="person">

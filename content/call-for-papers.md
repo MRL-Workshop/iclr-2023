@@ -29,7 +29,7 @@ The MRL workshop has the objective to bring together experts from the multimodal
 
 ## Submission
 
-The submission will be open on OpenReview <span class="todo">(TODO add link)</span> between January 15 and January 30, 2023, AoE.  For all relevant dates, please see [Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
+The submission will be open on OpenReview <span class="alert">(TBA)</span> between January 15 and January 30, 2023, AoE.  For all relevant dates, please see [Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
 
 ---
 
