@@ -6,31 +6,31 @@ title: "Organizers"
 
 <div class="list-of-people">
     <div class="person">
-        <img src="/adrian.jpg">
+        <img src="/organizing-team/adrian.jpg">
         <a href="http://adrian.javaloy.com/" target="_blank">Adrián Javaloy</a>
     </div>
     <div class="person">
-        <img src="/TODO.jpg">
-        <a href="TODO" target="_blank">Miguel Vasco</a>
+        <img src="/organizing-team/miguel.png">
+        <a href="https://www.miguelvasco.com/" target="_blank">Miguel Vasco</a>
     </div>
     <div class="person">
-        <img src="/TODO.jpg">
-        <a href="TODO" target="_blank">Petra Poklukar</a>
+        <img src="/organizing-team/petra.jpg">
+        <a href="https://people.kth.se/~poklukar/" target="_blank">Petra Poklukar</a>
     </div>
     <div class="person">
-        <img src="/TODO.jpg">
-        <a href="TODO" target="_blank">Yuge Shi</a>
+        <img src="/organizing-team/yuge.png">
+        <a href="https://yugeten.github.io/" target="_blank">Yuge Shi</a>
     </div>
     <div class="person">
-        <img src="/TODO.jpg">
-        <a href="TODO" target="_blank">Imant Daunhawer</a>
+        <img src="/organizing-team/imant.jpg">
+        <a href="https://mds.inf.ethz.ch/team/detail/imant-daunhawer" target="_blank">Imant Daunhawer</a>
     </div>
     <div class="person">
-        <img src="/TODO.jpg">
-        <a href="TODO" target="_blank">Danica Kragic</a>
+        <img src="/organizing-team/danica.jpg">
+        <a href="https://www.csc.kth.se/~danik/" target="_blank">Danica Kragic</a>
     </div>
     <div class="person">
-        <img src="/isabel.png">
+        <img src="/organizing-team/isabel.png">
         <a href="https://ivaleram.github.io/" target="_blank">Isabel Valera</a>
     </div>
 </div>
