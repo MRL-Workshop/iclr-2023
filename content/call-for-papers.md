@@ -31,6 +31,8 @@ The MRL workshop has the objective to bring together experts from the multimodal
 
 The submission will be open on OpenReview <span class="todo">(TODO add link)</span> between January 15 and January 30, 2023, AoE.  For all relevant dates, please see [Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
 
+We will not accept submissions that have already been accepted for publication in other venues with archival proceedings (including publications that will be presented at the main ICLR conference). We discourage dual submission to concurrent ICLR workshops.
+
 ---
 
 # Formatting Instructions
@@ -42,4 +44,4 @@ Submissions should be formatted using the [ICLR 2023 latex template and formatti
 
 ## Camera-Ready Revisions 
 
-Camera-ready revisions will be possible through OpenReview. While the workshop has no official proceedings, we strongly encourage authors to submit a revised "camera-ready" version taking reviewers' comments and suggestions into account. We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) one week after the workshop. 
+Camera-ready revisions will be possible through OpenReview. While the workshop has no official proceedings (papers will be publicly available as _non-archival_ reports through OpenReview), we strongly encourage authors to submit a revised "camera-ready" version taking reviewers' comments and suggestions into account. We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) one week after the workshop. 
