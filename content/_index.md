@@ -4,7 +4,7 @@ title: "Home"
 
 # Welcome!
 
-You are in the page of the first workshop **Multimodal Representation Learning (MRL): Perks and Pitfalls**, co-located with [**ICLR 2023**](https://iclr.cc/Conferences/2023) in Kigali, Rwanda, on May 5, 2023.
+You are on the page of the first workshop **Multimodal Representation Learning (MRL): Perks and Pitfalls**, co-located with [**ICLR 2023**](https://iclr.cc/Conferences/2023) in Kigali, Rwanda, on May 5, 2023.
 
 
 ## About the workshop
