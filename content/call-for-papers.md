@@ -29,7 +29,7 @@ The MRL workshop has the objective to bring together experts from the multimodal
 
 ## Submission
 
-The submission will be open on OpenReview <span class="alert">(TBA)</span> between January 15 and January 30, 2023, AoE.  For all relevant dates, please see [Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
+The submission will be open on [OpenReview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/MRL) between December 20 and January 30, 2023, AoE. For all relevant dates, please see [Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
 
 We will not accept submissions that have already been accepted for publication in other venues with archival proceedings (including publications that will be presented at the main ICLR conference). We discourage dual submission to concurrent ICLR workshops.
 
