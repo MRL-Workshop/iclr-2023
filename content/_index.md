@@ -19,7 +19,7 @@ Following deep learning, multimodal machine learning has made steady progress, b
 <div id="dates"></div>
 <!-- <span class="alert">Preliminary dates, they are subject to change.</span>  -->
 
-* **Paper submission start:** December 20, 2023, 23:59 AoE.
+* **Paper submission start:** December 20, 2022, 23:59 AoE.
 * **Paper submission deadline**: <span class="alert"> January 30, 2023, 23:59 AoE.</span>
 * **Notification to authors:** March 5, 2023, 23:59 AoE.
 * **Camera-ready version:** TBA.
