@@ -6,6 +6,9 @@ title: "Home"
 
 You are on the page of the first workshop **Multimodal Representation Learning (MRL): Perks and Pitfalls**, co-located with [**ICLR 2023**](https://iclr.cc/Conferences/2023) in Kigali, Rwanda, on May 5, 2023.
 
+<div  style="text-align: center"><span class="alert"> We have extended the deadline until February 3, 2023, 23:59 AoE.</span></div>
+
+
 <!-- <span class="alert">Most information is still preliminary and could change in the near future.</span> -->
 
 
@@ -20,7 +23,7 @@ Following deep learning, multimodal machine learning has made steady progress, b
 <!-- <span class="alert">Preliminary dates, they are subject to change.</span>  -->
 
 * **Paper submission start:** December 20, 2022, 23:59 AoE.
-* **Paper submission deadline**: <span class="alert"> January 30, 2023, 23:59 AoE.</span>
+* **Paper submission deadline**: <span class="alert"> February 3, 2023, 23:59 AoE.</span>
 * **Notification to authors:** March 5, 2023, 23:59 AoE.
 * **Camera-ready version:** TBA.
 * **Workshop date:** May 5, 2023.
