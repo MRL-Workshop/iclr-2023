@@ -364,7 +364,11 @@ li {
     }
 
     #logo {
-        width: 250px;
+        width: 100px;
+    }
+
+    #sponsor-logo {
+        width: 110px;
     }
 
     #content {
