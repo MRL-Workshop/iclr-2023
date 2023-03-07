@@ -29,3 +29,11 @@ Following deep learning, multimodal machine learning has made steady progress, b
 * **Workshop date:** May 5, 2023.
 
 Contact us at <mrl.workshop.2023@gmail.com>. All dates are subject to change. 
+
+## With support from
+
+  <div id="sponsor-logo-container">
+      <div id="sponsor-inner-container">
+          <img src="/googlelogo_color_416x140dp.png" width="25%" id="sponsor-logo">
+      </div>
+  </div>
