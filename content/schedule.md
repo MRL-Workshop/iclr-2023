@@ -109,7 +109,7 @@ title: "Schedule and Format"
 
 <!-- <span class="todo"> TODO: Add topics of the talks</span> -->
 
-## Hybrid Format
+## Format
 
 The workshop is part of ICLR and as such registration to ICLR is required to attend. 
 
