@@ -2,7 +2,7 @@
 title: "Invited Speakers"
 ---
 
-# Preliminary Invited Speakers
+# Invited Speakers
 
 <div class="list-of-people">
     <div class="person">
@@ -18,8 +18,8 @@ title: "Invited Speakers"
         <td><a href="https://a-nagrani.github.io/" target="_blank">Arsha Nagrani</a></td>
     </div>
     <div class="person">
-        <td><img src="/speakers/louis.jpg"></td>
-        <td><a href="https://www.cs.cmu.edu/~morency/" target="_blank">Louis-Philippe Morency</a></td>
+        <td><img src="/speakers/paul.jpg"></td>
+        <td><a href="https://www.cs.cmu.edu/~pliang/" target="_blank">Paul Pu Liang</a></td>
     </div>
     <div class="person">
         <td><img src="/speakers/kristen.jpg"></td>
