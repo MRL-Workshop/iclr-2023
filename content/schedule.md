@@ -3,7 +3,7 @@ title: "Schedule and Format"
 ---
 
 
-# Preliminary Workshop Schedule
+# Workshop Schedule
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
@@ -26,7 +26,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>09:10 - 09:40</td>
-        <td>Invited Talk 1: Zeynep Akata</td>
+        <td>Invited Talk 1: Paul Liang</td>
         <td>Live</td>
     </tr>
     <tr class="contributed">
@@ -36,7 +36,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>10:20 - 10:50</td>
-        <td>Invited Talk 2: N. Siddharth</td>
+        <td>Invited Talk 2: Zeynep Akata</td>
         <td>Live</td>
     </tr>
     <tr class="break">
@@ -56,7 +56,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>13:30 - 14:00</td>
-        <td>Invited Talk 3: Paul Liang</td>
+        <td>Invited Talk 3: Kristen Grauman</td>
         <td>Live</td>
     </tr>
     <tr class="poster">
@@ -81,7 +81,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>16:20 - 16:50</td>
-        <td>Invited Talk 5: Kristen Grauman</td>
+        <td>Invited Talk 5: N. Siddharth</td>
         <td>Live</td>
     </tr>
     <tr class="break">
@@ -112,7 +112,6 @@ title: "Schedule and Format"
 ## Format
 
 The workshop is part of ICLR and as such registration to ICLR is required to attend. 
-
 The workshop will be held virtually. For remote participation, all workshop talks will be live-streamed.
 
 <!-- 
